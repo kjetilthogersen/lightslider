@@ -152,7 +152,7 @@
 .lSAction > a {
     width: 32px;
     display: block;
-    bottom: 10px;
+    bottom: 0px;
     height: 32px;
     background-image: url('../img/controls.png');
     cursor: pointer;
