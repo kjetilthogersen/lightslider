@@ -155,7 +155,7 @@
 .lSAction > a {
     width: 32px;
     display: block;
-    bottom: 0px;
+    top: 32px;
     height: 32px;
     background-image: url('../img/controls.png');
     cursor: pointer;
@@ -213,7 +213,7 @@
 }
 .lSSlideOuter.vertical .lSAction > .lSNext {
     background-position: 31px -31px;
-    bottom: 10px;
+    bottom: -10px;
     top: auto;
 }
 .lSSlideOuter.vertical .lSAction > .lSPrev {
